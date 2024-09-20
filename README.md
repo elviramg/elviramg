@@ -4,7 +4,13 @@
 <br><br>🤖 Back in college, I was on the board for our robotics club (CROFI). We built line-following robots, mini sumos, and self-driving cars, and got to play around with computer vision using OpenCV.
 <br><br>⚽️ When I'm not coding, you can find me rooting for Real Madrid, playing padle and tennis, taking photos, or getting lost in a good sci-fi book.<br><br>Feel free to check out my repos or hit me up if you wanna talk tech or data!
 
-<br><br> At work you can find my GitHub repo at: [![Work]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://cdn-icons-png.flaticon.com/512/25/25231.png))](https://github.com/elvira-xdev) 
+<div align="center">
+
+At [X-Data](https://x-data.mx/), you can find my contributions under:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvira-xdev)
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elviramagallanes/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ElviraMagallans) 
