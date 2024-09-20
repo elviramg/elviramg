@@ -1,10 +1,7 @@
 # 💫 About Me:
 👋 Hey There! My name is Elvira Magallanes and I'm a Machine Learning Engineer with more than three years of experience across different fields like data analysis and MLOps. I love making sense of data and building cool stuff with it, especially using Google Cloud Platform to make everything run smoothly.
-
-<br><br>🔧 Tech Skills: I use Python, SQL, Docker, Kubernetes, Gradio, Streamlit and Airflow to get things done. I also know a bit of C, Java, and Matlab, but Python and everything AI related is where my true passion lies!
-
+<br><br>🔧 **Tech Skills:** I use Python, SQL, Docker, Kubernetes, Gradio, Streamlit and Airflow to get things done. I also know a bit of C, Java, and Matlab, but Python and everything AI related is where my true passion lies!
 <br><br>🤖 Back in college, I was on the board for our robotics club (CROFI). We built line-following robots, mini sumos, and self-driving cars, and got to play around with computer vision using OpenCV.
-
 <br><br>⚽️ When I'm not coding, you can find me rooting for Real Madrid, playing paddle and tennis, taking photos, or getting lost in a good sci-fi book.<br><br>Feel free to check out my repos or hit me up if you wanna talk tech or data!
 
 
